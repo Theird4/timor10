@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://teluk4d.xy2401.com/sitemap.xml
